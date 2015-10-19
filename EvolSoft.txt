@@ -1,0 +1,63 @@
+LA EVOLUCIÓN DEL SOFTWARE
+
+Durante los primeros años de la era de la computadora, el software se contemplaba como un añadido. La programación de computadoras era un <<arte de andar por casa>> para el que existían pocos métodos sistemáticos. El desarrollo del software se realizaba virtualmente sin ninguna planificación, hasta que los planes comenzaron a descalabrarse y los costos a crecer. Los programadores trataban de hacer las cosas bien, y con un esfuerzo heroico, a menudo salían con éxito.
+
+Durante los primeros años lo normal era que el hardware fuera de propósito general. Por otra parte, el software se diseñaba a medida para cada aplicación y tenía una distribución relativamente pequeña. El software como producto (es decir, programas desarrollados para ser vendidos a uno o más clientes) estaba en su infancia. La mayoría del software se desarrollaba y era utilizado por la misma persona u organización. La misma persona lo escribía, lo ejecutaba y, si fallaba, lo depuraba. Debido a que la movilidad en el trabajo era baja, los ejecutivos estaban seguros de que esa persona estará allí cuando se encontrara algún error. Debido a este entorno personalizado del software, el diseño era un proceso implícito, realizado en la mente de alguien, y la documentación normalmente no existía.
+
+La segunda era en la evolución de los sistemas de computadora se extiende desde la mitad de la década de los sesenta hasta finales de los setenta. La multiprogramación y los sistemas multiusuario introdujeron nuevos conceptos de interacción hombre-máquina. Las técnicas interactivas abrieron un nuevo mundo de aplicaciones y nuevos niveles de sofisticación del hardware y del software. Los sistemas de tiempo real podían recoger, analizar y transformar datos de múltiples fuentes, controlando así los procesos y produciendo salidas en milisegundos en lugar de en minutos. Los avances en los dispositivos de almacenamiento en línea condujeron a la primera generación de sistemas de gestión de bases de datos.
+
+La segunda era se caracterizó también por el establecimiento del software como producto y la llegada de las <<casas de software>>. El software ya se desarrollaba para tener una amplia distribución en un mercado multidisciplinar. Los programas se distribuían para computadoras grandes y para minicomputadoras, a cientos e incluso a miles de usuarios.
+
+Conforme crecía el número de sistemas informáticos, comenzaron a extenderse las bibliotecas de software de computadora. Las casas desarrollaban proyectos en los que se producían programas de decenas de miles de sentencias fuente. Los productos de software comprados al exterior incorporaban cientos de miles de nuevas sentencias. Una nube negra apareció en el horizonte. Todos esos programas, todas esas sentencias fuente tenían que ser corregidas cuando se detectaban fallas, modificadas cuando cambiaban los requisitos de los usuarios o adaptadas a nuevos dispositivos hardware que se hubieran adquirido. Estas actividades se llamaron colectivamente mantenimiento del software. El esfuerzo gastado en el mantenimiento del software comenzó a absorber recursos en una medida alarmante.
+
+Aún peor, la naturaleza personalizada de muchos programas los hacía virtualmente imposible de mantener. Había comenzado una crisis del <<software>>.
+
+La tercera era en la evolución de los sistemas de computadora comenzó a mediados de los años setenta y continuó más allá de una década. El sistema distribuido, múltiples computadoras, cada una ejecutando funciones concurrentemente y comunicándose con alguna otra, incrementó notablemente la complejidad de los sistemas informáticos. Las redes de área local y de área global, las comunicaciones digitales de alto ancho de banda y la creciente demanda de acceso <<instantáneo>> a los datos, supusieron una fuerte presión sobre los desarrolladores del software. Aún más, los sistemas y el software que lo permitían continuaron residiendo dentro de la industria y de la academia. El uso personal era extraño.
+
+La conclusión de la tercera era se caracterizó por la llegada y amplio uso de los microprocesadores. El microprocesador ha producido un extenso grupo de productos inteligentes, desde automóviles hasta hornos de microondas, desde robots industriales a equipos de diagnósticos de suero sanguíneo, pero ninguno ha sido más importante que la computadora personal.
+
+
+
+
+
+La cuarta era de la evolución de sistemas informáticos se aleja de las computadoras individuales y de los programas de computadoras, dirigiéndose al impacto colectivo de las computadoras y del software. Potentes máquinas personales controladas por sistemas operativos sofisticados, en redes globales y locales, acompañadas por aplicaciones de software avanzadas se han convertido en la norma. Las arquitecturas informáticas están cambiando de entornos centralizados de grandes computadoras a entornos descentralizados cliente/servidor. Las redes de información en todo el mundo proporcionan una infraestructura que iguala a expertos y políticos en pensar sobre una <<superautopista de información>> y una <<conexión del ciberespacio>>. De hecho Internet se puede observar como un <<software>> al que pueden acceder usuarios individuales.
+
+La industria del software ya es la cuna de la economía del mundo. Las decisiones tomadas por gigantes de la industria tales como Microsoft arriesgan billones de dólares. A medida que la cuarta generación progresa, han comenzado a surgir nuevas tecnologías. Las tecnologías orientadas a objetos están desplazando rápidamente los enfoques de desarrollo de software más convencionales en muchas áreas de aplicaciones. Los sistemas expertos y el software de inteligencia artificial han salido del laboratorio para entrar en aplicaciones prácticas de una gran variedad de problemas del mundo real. El software de redes neuronales artificiales junto con la aplicación de lógica difusa han abierto posibilidades excitantes para el reconocimiento de patrones y habilidades de procesamiento de información de carácter humano.
+
+La programación de realidad virtual y los sistemas multimedia ofrecen formas radicalmente diferentes de comunicar información al usuario final. <<Los algoritmos genéticos>> ofrecen el potencial para el software que reside dentro de las computadoras biológicas masivamente en paralelo. 
+
+
+
+
+
+
+
+
+
+La evolución del Software.
+
+La primera era:
+•	Orientación por lotes (batch)
+•	Distribución limitada
+•	Software a medida 
+
+La segunda era:
+•	Multiusuario
+•	Tiempo real
+•	Bases de datos
+•	Software como producto
+
+La tercera era:
+•	Sistemas distribuidos
+•	Incorporación de <<inteligencia>>
+•	Hardware de bajo costo
+•	Impacto en el consumo
+
+La cuarta era:
+•	Sistemas personales potentes
+•	Tecnologías orientadas a objetos
+•	Sistemas expertos
+•	Redes neuronales artificiales
+•	Computación en paralelo
+•	Redes de computadoras
+
