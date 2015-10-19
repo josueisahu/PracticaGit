@@ -1,0 +1,14 @@
+(Reverse engineering). La ingeniería inversa es el proceso de descubrir los principios tecnológicos de un dispositivo, objeto o sistema, a través de razonamiento abductivo de su estructura, función y operación.
+
+La ingeniería inversa se trata de tomar algo (un dispositivo mecánico o electrónico, un software de computadora, etc.) para analizar su funcionamiento en detalle, generalmente para intentar crear un dispositivo o programa que haga la misma o similar tarea sin copiar la original.
+
+Usos de la ingeniería inversa
+
+* La ingeniería inversa suele ser empleada por empresas, para analizar si el producto de su competencia infringe patentes de sus propios productos.
+
+* Muchas veces, la ingeniería inversa es utilizada en el área militar para investigar (y copiar) las tecnologías de otras naciones, sin obtener planos ni detalles de su construcción o desarrollo.
+
+* En el software y en el hardware, la ingeniería inversa, muchas veces es empleada para desarrollar productos que sean compatibles con otros productos, sin conocer detalles de desarrollo de éstos últimos. En otras palabras, quien desarrolla los nuevos productos, no puede acceder a los detalles de fabricación de los productos de los que intenta ser compatibles.
+
+* La ingeniería inversa también es empleada para comprobar la seguridad de un producto, generar keygens de aplicaciones, reparación de productos, etc.
+- See more at: http://www.alegsa.com.ar/Dic/ingenieria%20inversa.php#sthash.hynioPjL.dpuf
